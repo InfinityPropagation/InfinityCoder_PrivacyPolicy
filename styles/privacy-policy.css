@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Hacked';
-    src: url("https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/assets/fonts/Hacked.ttf");
+    src: url("../assets/fonts/Hacked.ttf");
     /* src: url("http://localhost/InfinityCoder_Server/pages/assets/fonts/Hacked.ttf"); */
 }
 
@@ -30,7 +30,7 @@
 }
 @font-face {
     font-family: 'Systemia';
-    src: url("https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/assets/fonts/SYSTEMIA.ttf");
+    src: url("../assets/fonts/SYSTEMIA.ttf");
     /* src: url("http://localhost/InfinityCoder_Server/pages/assets/fonts/SYSTEMIA.ttf"); */
 }
 
