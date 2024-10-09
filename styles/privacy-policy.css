@@ -1,34 +1,36 @@
+/* rootpath: https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/*/
+
 @font-face {
     font-family: 'Hacked';
-    src: url("https://infinitypropagation.ddns.net:504/InfinityCoder_Server/pages/assets/fonts/Hacked.ttf");
+    src: url("https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/assets/fonts/Hacked.ttf");
     /* src: url("http://localhost/InfinityCoder_Server/pages/assets/fonts/Hacked.ttf"); */
 }
 
 @font-face {
     font-family: 'Mokoto Bold Glitch';
-    src: url("https://infinitypropagation.ddns.net:504/InfinityCoder_Server/pages/assets/fonts/Mokoto-Bold-Glitch.ttf");
+    src: url("https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/assets/fonts/Mokoto-Bold-Glitch.ttf");
     /* src: url("http://localhost/InfinityCoder_Server/pages/assets/fonts/Mokoto-Bold-Glitch.ttf"); */
 }
 
 @font-face {
     font-family: 'Mokoto Glitch';
-    src: url("https://infinitypropagation.ddns.net:504/InfinityCoder_Server/pages/assets/fonts/Mokoto-Glitch.ttf");
+    src: url("https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/assets/fonts/Mokoto-Glitch.ttf");
     /* src: url("http://localhost/InfinityCoder_Server/pages/assets/fonts/Mokoto-Glitch.ttf"); */
 }
 
 @font-face {
     font-family: 'Mokoto Outline';
-    src: url("https://infinitypropagation.ddns.net:504/InfinityCoder_Server/pages/assets/fonts/Mokoto-Outline.ttf");
+    src: url("https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/assets/fonts/Mokoto-Outline.ttf");
     /* src: url("http://localhost/InfinityCoder_Server/pages/assets/fonts/Mokoto-Outline.ttf"); */
 }
 @font-face {
     font-family: 'Mokoto Regular';
-    src: url("https://infinitypropagation.ddns.net:504/InfinityCoder_Server/pages/assets/fonts/Mokoto-Regular.ttf");
+    src: url("https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/assets/fonts/Mokoto-Regular.ttf");
     /* src: url("http://localhost/InfinityCoder_Server/pages/assets/fonts/Mokoto-Regular.ttf"); */
 }
 @font-face {
     font-family: 'Systemia';
-    src: url("https://infinitypropagation.ddns.net:504/InfinityCoder_Server/pages/assets/fonts/SYSTEMIA.ttf");
+    src: url("https://infinitypropagation.github.io/InfinityCoder_PrivacyPolicy/assets/fonts/SYSTEMIA.ttf");
     /* src: url("http://localhost/InfinityCoder_Server/pages/assets/fonts/SYSTEMIA.ttf"); */
 }
 
